@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using MusicLieBerry.Objects;
-using MusicLieBerry.Properties;
+using MusicLieBerry.Managers;
 using MusicLieBerry.Extensions;
 using MusicLieBerry.Utils;
 
@@ -50,13 +43,20 @@ namespace MusicLieBerry.Forms
         #region ToolOperations
         private void NewOperation()
         {
-            string selectedPath = FolderBrowserDialogUtil.InitFolderBrowserDialogForNew(folderBrowserDialog).ShowFolderBrowserDialog();
-            folderBrowserDialog.Reset();
-            if (!string.IsNullOrWhiteSpace(selectedPath))
+            try
             {
-                MessageBox.Show("Selected path : " + selectedPath);
+                string selectedPath = FolderBrowserDialogUtil.InitFolderBrowserDialogForNew(folderBrowserDialog).ShowFolderBrowserDialog();
+                folderBrowserDialog.Reset();
+                if (!string.IsNullOrWhiteSpace(selectedPath))
+                {
+                    tvMlbTree.Nodes.Clear();
+                    tvMlbTree.Nodes.Add(TreeCreator.CreateTreeWithPath(selectedPath));
+                }
             }
-
+            catch (Exception ex)
+            {
+                MlbMessageBox.ShowErrorMessageBox(ex.Message);
+            }
         }
         #endregion
 

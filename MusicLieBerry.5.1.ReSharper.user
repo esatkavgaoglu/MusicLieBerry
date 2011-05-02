@@ -3,38 +3,58 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:MlbTreeNode.cs" caret="200" fromTop="7" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Properties/f:Resources.Designer.cs" caret="3001" fromTop="23" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Properties/f:Resources.resx" caret="0" fromTop="0" />
       <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.Designer.cs" caret="24512" fromTop="18" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Utils/f:FolderBrowserDialogUtil.cs" caret="331" fromTop="10" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Extensions/f:FolderBrowserExt.cs" caret="161" fromTop="6" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1219" fromTop="13" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:Artist.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:Song.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:EGenre.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Extensions/f:FolderBrowserExt.cs" caret="332" fromTop="12" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Properties/f:Resources.resx" caret="5600" fromTop="15" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:Root.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:Album.cs" caret="231" fromTop="7" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:MlbTreeNode.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Utils/f:FolderBrowserDialogUtil.cs" caret="622" fromTop="14" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Properties/f:Resources.Designer.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Utils/f:MlbMessageBox.cs" caret="248" fromTop="9" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1456" fromTop="9" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="1078" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:MlbTreeNode.cs" caret="210" fromTop="7" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="574" fromTop="14" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1654" fromTop="15" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1654" fromTop="18" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1034" fromTop="14" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1061" fromTop="18" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1654" fromTop="17" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="969" fromTop="26" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="594" fromTop="15" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="881" fromTop="18" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1792" fromTop="17" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="789" fromTop="26" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="414" fromTop="15" />
       <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Extensions/f:FolderBrowserExt.cs" caret="284" fromTop="9" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1640" fromTop="35" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1638" fromTop="30" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1638" fromTop="24" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1349" fromTop="16" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1590" fromTop="20" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1739" fromTop="35" />
       <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Utils/f:FolderBrowserDialogUtil.cs" caret="331" fromTop="10" />
       <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Utils/f:FolderBrowserDialogUtil.cs" caret="643" fromTop="10" />
-      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1654" fromTop="13" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1792" fromTop="13" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:Album.cs" caret="231" fromTop="7" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Objects/f:MlbTreeNode.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1753" fromTop="9" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="2055" fromTop="10" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="2045" fromTop="17" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="223568" fromTop="17" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1748" fromTop="24" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1629" fromTop="16" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="1989" fromTop="17" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1706" fromTop="20" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="352" fromTop="13" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Properties/f:Resources.Designer.cs" caret="0" fromTop="0" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="1989" fromTop="19" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1541" fromTop="11" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Utils/f:MlbMessageBox.cs" caret="241" fromTop="9" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="73" fromTop="2" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1706" fromTop="17" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Forms/f:MainForm.cs" caret="1456" fromTop="11" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="1300" fromTop="24" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="1773" fromTop="24" />
+      <File id="EBF8340D-2C3E-48A6-807D-7264B1A6184E/d:Managers/f:TreeCreator.cs" caret="1734" fromTop="17" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -50,36 +70,73 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="prop" priority="2" />
-      <Item value="string" priority="5" />
+      <Item value="prop" priority="5" />
+      <Item value="string" priority="10" />
       <Item value="MessageBox" priority="0" />
       <Item value="Close`0" priority="0" />
       <Item value="private" priority="3" />
-      <Item value="void" priority="2" />
-      <Item value="MessageBox`0" priority="2" />
+      <Item value="void" priority="3" />
+      <Item value="MessageBox`0" priority="3" />
       <Item value="NewOperation`0" priority="1" />
       <Item value="#endregion" priority="0" />
       <Item value="FrmHelp`0" priority="1" />
-      <Item value="new" priority="0" />
+      <Item value="new" priority="5" />
       <Item value="folderBrowserDialog" priority="14" />
-      <Item value="if" priority="0" />
+      <Item value="if" priority="2" />
       <Item value="false" priority="1" />
-      <Item value="selectedPath" priority="2" />
-      <Item value="null" priority="0" />
+      <Item value="selectedPath" priority="6" />
+      <Item value="null" priority="2" />
       <Item value="InitFolderBrowserDialogForNew`0" priority="0" />
       <Item value="FolderBrowserDialog`0" priority="0" />
-      <Item value="return" priority="1" />
+      <Item value="return" priority="2" />
       <Item value="ShowFolderBrowser`0" priority="0" />
-      <Item value="public" priority="1" />
+      <Item value="public" priority="2" />
       <Item value="static" priority="1" />
       <Item value="this" priority="0" />
       <Item value="FolderBrowser`0" priority="0" />
       <Item value="folderBrowser" priority="2" />
       <Item value="FolderBrowserDialog" priority="0" />
       <Item value="FolderBrowserDialogUtil" priority="0" />
+      <Item value="int" priority="3" />
+      <Item value="tvMlbTree" priority="2" />
+      <Item value="propg" priority="0" />
+      <Item value="psmethod" priority="1" />
+      <Item value="TreeNode" priority="3" />
+      <Item value="root" priority="2" />
+      <Item value="TreeCreator" priority="0" />
+      <Item value="TreeNode`0" priority="1" />
+      <Item value="node1" priority="2" />
+      <Item value="path" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="thr" priority="3" />
+      <Item value="Exception" priority="0" />
+      <Item value="Resources" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="ex" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="finally" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="b" priority="0" />
+      <Item value="Directory" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="Resources`0" priority="1" />
+      <Item value="OK" priority="0" />
+      <Item value="Error" priority="0" />
+      <Item value="MlbMessageBox`0" priority="0" />
+      <Item value="Directory`0" priority="3" />
+      <Item value="foreach" priority="0" />
+      <Item value="artistPath" priority="4" />
+      <Item value="artistNode" priority="3" />
+      <Item value="File`0" priority="1" />
+      <Item value="Path`0" priority="0" />
+      <Item value="DirectoryInfo`0" priority="0" />
+      <Item value="DirectoryInfo" priority="0" />
+      <Item value="di" priority="0" />
+      <Item value="albumNode" priority="0" />
+      <Item value="albumPath" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
-      <Item value="Show`0" priority="3" />
+      <Item value="Show`0" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MusicLieBerry.Forms.FrmHelp">
       <Item value="ShowDialog`0" priority="0" />
@@ -94,11 +151,47 @@
       <Item value="ShowFolderBrowserDialog`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
-      <Item value="IsNullOrWhiteSpace`0" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
       <Item value="Desktop" priority="0" />
       <Item value="DesktopDirectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeView">
+      <Item value="Nodes" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeCollection">
+      <Item value="Add`0" priority="3" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNode">
+      <Item value="Text" priority="3" />
+      <Item value="Nodes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MusicLieBerry.Managers.TreeCreator">
+      <Item value="CreateTreeWithPath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MusicLieBerry.Properties.Resources">
+      <Item value="TreeCreator_Ex_EmptyPath" priority="0" />
+      <Item value="TreeCreator_Ex_NonexistingPath" priority="0" />
+      <Item value="MessageBox_ErrorTitle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists`0" priority="0" />
+      <Item value="GetDirectories`0" priority="1" />
+      <Item value="GetFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MusicLieBerry.Utils.MlbMessageBox">
+      <Item value="ShowErrorMessageBox`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetDirectoryName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="Name" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

@@ -68,5 +68,32 @@ namespace MusicLieBerry.Properties {
                 return ResourceManager.GetString("MainForm_NewOperation_Select_Root_Folder", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error!.
+        /// </summary>
+        internal static string MessageBox_ErrorTitle {
+            get {
+                return ResourceManager.GetString("MessageBox_ErrorTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Path is empty or null..
+        /// </summary>
+        internal static string TreeCreator_Ex_EmptyPath {
+            get {
+                return ResourceManager.GetString("TreeCreator_Ex_EmptyPath", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Path doesn&apos;t exist..
+        /// </summary>
+        internal static string TreeCreator_Ex_NonexistingPath {
+            get {
+                return ResourceManager.GetString("TreeCreator_Ex_NonexistingPath", resourceCulture);
+            }
+        }
     }
 }
