@@ -1,0 +1,10 @@
+E:\VSProjects\MusicLieBerry\MusicLieBerry\bin\Debug\MusicLieBerry.exe
+E:\VSProjects\MusicLieBerry\MusicLieBerry\bin\Debug\MusicLieBerry.pdb
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Forms.MainForm.resources
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Properties.Resources.resources
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.exe
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.pdb
+E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Forms.FrmAbout.resources
