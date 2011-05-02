@@ -54,7 +54,7 @@ namespace MusicLieBerry.Forms
             folderBrowserDialog.Reset();
             if (!string.IsNullOrWhiteSpace(selectedPath))
             {
-                MessageBox.Show(selectedPath);
+                MessageBox.Show("Selected path : " + selectedPath);
             }
 
         }

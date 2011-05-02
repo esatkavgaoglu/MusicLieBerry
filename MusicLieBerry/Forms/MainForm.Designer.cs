@@ -32,12 +32,12 @@
             this.splitContainerInner = new System.Windows.Forms.SplitContainer();
             this.tvMlbTree = new System.Windows.Forms.TreeView();
             this.gpProperties = new System.Windows.Forms.GroupBox();
+            this.splitContainerMain = new System.Windows.Forms.SplitContainer();
+            this.tableLayoutPanelStatus = new System.Windows.Forms.TableLayoutPanel();
+            this.checkBoxLive = new System.Windows.Forms.CheckBox();
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripProgressBar = new System.Windows.Forms.ToolStripProgressBar();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
-            this.checkBoxLive = new System.Windows.Forms.CheckBox();
-            this.splitContainerMain = new System.Windows.Forms.SplitContainer();
-            this.tableLayoutPanelStatus = new System.Windows.Forms.TableLayoutPanel();
             this.menu = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -83,12 +83,12 @@
             this.splitContainerInner.Panel1.SuspendLayout();
             this.splitContainerInner.Panel2.SuspendLayout();
             this.splitContainerInner.SuspendLayout();
-            this.statusStrip.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).BeginInit();
             this.splitContainerMain.Panel1.SuspendLayout();
             this.splitContainerMain.Panel2.SuspendLayout();
             this.splitContainerMain.SuspendLayout();
             this.tableLayoutPanelStatus.SuspendLayout();
+            this.statusStrip.SuspendLayout();
             this.menu.SuspendLayout();
             this.MainPanel.SuspendLayout();
             this.toolStrip.SuspendLayout();
@@ -120,34 +120,6 @@
             this.gpProperties.Name = "gpProperties";
             this.gpProperties.TabStop = false;
             // 
-            // statusStrip
-            // 
-            this.statusStrip.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.statusStrip, "statusStrip");
-            this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripProgressBar,
-            this.toolStripStatusLabel});
-            this.statusStrip.MaximumSize = new System.Drawing.Size(0, 21);
-            this.statusStrip.MinimumSize = new System.Drawing.Size(0, 21);
-            this.statusStrip.Name = "statusStrip";
-            this.statusStrip.SizingGrip = false;
-            // 
-            // toolStripProgressBar
-            // 
-            this.toolStripProgressBar.Name = "toolStripProgressBar";
-            resources.ApplyResources(this.toolStripProgressBar, "toolStripProgressBar");
-            // 
-            // toolStripStatusLabel
-            // 
-            this.toolStripStatusLabel.Name = "toolStripStatusLabel";
-            resources.ApplyResources(this.toolStripStatusLabel, "toolStripStatusLabel");
-            // 
-            // checkBoxLive
-            // 
-            resources.ApplyResources(this.checkBoxLive, "checkBoxLive");
-            this.checkBoxLive.Name = "checkBoxLive";
-            this.checkBoxLive.UseVisualStyleBackColor = true;
-            // 
             // splitContainerMain
             // 
             resources.ApplyResources(this.splitContainerMain, "splitContainerMain");
@@ -169,6 +141,34 @@
             this.tableLayoutPanelStatus.Controls.Add(this.checkBoxLive, 1, 0);
             this.tableLayoutPanelStatus.Controls.Add(this.statusStrip, 0, 0);
             this.tableLayoutPanelStatus.Name = "tableLayoutPanelStatus";
+            // 
+            // checkBoxLive
+            // 
+            resources.ApplyResources(this.checkBoxLive, "checkBoxLive");
+            this.checkBoxLive.Name = "checkBoxLive";
+            this.checkBoxLive.UseVisualStyleBackColor = true;
+            // 
+            // statusStrip
+            // 
+            this.statusStrip.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.statusStrip, "statusStrip");
+            this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripProgressBar,
+            this.toolStripStatusLabel});
+            this.statusStrip.MaximumSize = new System.Drawing.Size(0, 21);
+            this.statusStrip.MinimumSize = new System.Drawing.Size(0, 21);
+            this.statusStrip.Name = "statusStrip";
+            this.statusStrip.SizingGrip = false;
+            // 
+            // toolStripProgressBar
+            // 
+            this.toolStripProgressBar.Name = "toolStripProgressBar";
+            resources.ApplyResources(this.toolStripProgressBar, "toolStripProgressBar");
+            // 
+            // toolStripStatusLabel
+            // 
+            this.toolStripStatusLabel.Name = "toolStripStatusLabel";
+            resources.ApplyResources(this.toolStripStatusLabel, "toolStripStatusLabel");
             // 
             // menu
             // 
@@ -447,14 +447,14 @@
             this.splitContainerInner.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerInner)).EndInit();
             this.splitContainerInner.ResumeLayout(false);
-            this.statusStrip.ResumeLayout(false);
-            this.statusStrip.PerformLayout();
             this.splitContainerMain.Panel1.ResumeLayout(false);
             this.splitContainerMain.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).EndInit();
             this.splitContainerMain.ResumeLayout(false);
             this.tableLayoutPanelStatus.ResumeLayout(false);
             this.tableLayoutPanelStatus.PerformLayout();
+            this.statusStrip.ResumeLayout(false);
+            this.statusStrip.PerformLayout();
             this.menu.ResumeLayout(false);
             this.menu.PerformLayout();
             this.MainPanel.ResumeLayout(false);

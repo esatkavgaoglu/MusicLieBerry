@@ -8,3 +8,13 @@ E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\GenerateResource.write.1
 E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.exe
 E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.pdb
 E:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Forms.FrmAbout.resources
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.exe
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.pdb
+D:\VSProjects\MusicLieBerry\MusicLieBerry\bin\Debug\MusicLieBerry.exe
+D:\VSProjects\MusicLieBerry\MusicLieBerry\bin\Debug\MusicLieBerry.pdb
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Forms.FrmAbout.resources
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Forms.MainForm.resources
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\MusicLieBerry.Properties.Resources.resources
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VSProjects\MusicLieBerry\MusicLieBerry\obj\x86\Debug\GenerateResource.write.1.tlog
